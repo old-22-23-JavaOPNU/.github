@@ -4,7 +4,7 @@
 
 Викладач: Годовиченко Микола Анатолійович<br>
 email: hodovychenko@op.edu.ua<br>
-telegram: @MykolaHdv<br>
+telegram: [@MykolaHdv](https://t.me/MykolaHdv)<br>
 github: [@MykolaHodovychenko](https://github.com/MykolaHodovychenko)
 
 Лекційний матеріал знаходиться у репозиторії [lectures](https://github.com/JavaOPNU/lectures)
