@@ -11,6 +11,10 @@ github: [@MykolaHodovychenko](https://github.com/MykolaHodovychenko)
 
 Лекційний матеріал знаходиться у репозиторії [lectures](https://github.com/JavaOPNU/lectures)
 
+## Лабораторні роботи 
+
+Посилання на лабораторні роботи знаходяться у репозиторії [labs](https://github.com/JavaOPNU/labs)
+
 ## Телеграм-канал дисципліни
 
 Посилання на телеграм-канал - [посилання](https://t.me/+1wVGtj22qoM4MjYy)
